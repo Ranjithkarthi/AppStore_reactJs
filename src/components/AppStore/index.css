@@ -1,0 +1,38 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-image: linear-gradient(to bottom, #fff1eb, #ace0f9);
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.input-element-container {
+  display: flex;
+}
+
+.input-box {
+  width: 400px;
+  outline: none;
+  border: none;
+  background-color: transparent;
+  color: #000;
+}
+
+.search-icon {
+  height: 30px;
+}
+
+.tab-item-container {
+  display: flex;
+}
+
+.app-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 85%;
+}

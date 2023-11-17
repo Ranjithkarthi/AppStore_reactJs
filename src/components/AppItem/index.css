@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.each-img-container {
+  background-color: #fff;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 16px;
+  align-items: center;
+  flex: 0 0 20%;
+  margin: 8px;
+}
+
+.each-img {
+  height: 70px;
+}
